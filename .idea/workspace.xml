@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PropertiesComponent">{}</component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+        <profiling log-folder="C:\Users\JasCon\AppData\Local\Programs\WebStorm\bin\." />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+  </component>
+</project>
